@@ -1,0 +1,11 @@
+Package: MacroRF
+Type: Package
+Title: Macroeconomic Random Forest
+Version: 0.1.1
+Author: Philippe Goulet Coulombe
+Maintainer: PGC <gouletc@sas.upenn.edu>
+Description: This function runs MRF, where RF is employed to generate generalized time-varying parameters for a linear (macroeconomic) equation. 
+License: GPL-3
+Encoding: UTF-8
+Imports: pracma
+LazyData: true
